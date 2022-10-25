@@ -1,0 +1,15 @@
+a:link,a:visited{
+    background-color: azure;
+    display: inline-flexbox;
+    color: aqua;
+}
+a:hover,a:active{
+    background-color: brown;
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+}
+body{
+    color: bisque;
+}
